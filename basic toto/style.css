@@ -1,0 +1,55 @@
+
+    body {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      background-color: aliceblue;
+    }
+    #header {
+      align-items: center;
+      text-align: center;
+      display: flex;
+    }
+    #ip-container {
+      position: relative;
+    }
+    #crossIp {
+      position: absolute;
+      top: 21px;
+      right: 15px;
+    }
+    #tableid {
+      border: 1px solid #202020;
+    }
+    table, th, td {
+      border: 1px solid #202020;
+    }
+    th {
+      background-color: rgb(226, 205, 255);
+    }
+    td {
+      background-color: rgb(215, 255, 252);
+    }
+    input {
+      height: 40px;
+      width: 400px;
+      padding: 10px 30px 10px 20px;
+    }
+    #tableCellIp {
+      border: none;
+      background-color: transparent;
+    }
+    #tableCellIp:focus-visible{
+      outline: none !important;
+    }
+    .deltCll{
+      position: relative;
+      right: 15px;
+      cursor: pointer;
+    }
+    #tableRowData{
+      position: relative;
+      display: flex;
+      justify-content: space-between;
+    }
