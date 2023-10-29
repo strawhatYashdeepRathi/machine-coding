@@ -1,23 +1,30 @@
 .head-container {
   display: flex;
   justify-content: center;
-  padding: 50px;
+  padding-top: 50px;
   background-color: rgb(233, 207, 255);
   box-shadow: 0px 15px 10px -15px #111
 }
 
 .tabs-btns {
   cursor: pointer;
-  border: 1px solid #aa92ff;
-  margin: 0px 20px 0px 20px;
+  border-top: 1px solid #aa92ff;
+  width: 100%;
+  height: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   font-size: 2rem;
   padding: 0px 20px 0px 20px;
-  border-radius: 15px;
+}
+
+.tabs-btns:hover {
+  background-color: rgb(213, 168, 255);
 }
 
 .selected {
-  background-color: rgb(213, 168, 255);
-  box-shadow: 5px 10px rgb(58, 120, 255);
+  box-shadow: 0px -10px rgb(58, 120, 255);
+  background-color: rgb(185, 255, 251);
   border: none;
 }
 
