@@ -1,0 +1,50 @@
+.head-container {
+  display: flex;
+  justify-content: center;
+  padding: 50px;
+  background-color: rgb(233, 207, 255);
+  box-shadow: 0px 15px 10px -15px #111
+}
+
+.tabs-btns {
+  cursor: pointer;
+  border: 1px solid #aa92ff;
+  margin: 0px 20px 0px 20px;
+  font-size: 2rem;
+  padding: 0px 20px 0px 20px;
+  border-radius: 15px;
+}
+
+.selected {
+  background-color: rgb(213, 168, 255);
+  box-shadow: 5px 10px rgb(58, 120, 255);
+  border: none;
+}
+
+.content-container{
+  text-align: center;
+  font-size: 1.6rem;
+  margin-top: 20px;
+}
+
+/* .head{
+  text-align: center;
+}
+
+.tabs-Container{
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+  border-bottom: 1px solid #202020;
+}
+
+.tabs-Container > div {
+  padding: 20px;
+  cursor: pointer;
+}
+
+.currTab {
+  border-radius: 5px 5px 0px 0px;
+  border-bottom: 3px solid black;
+} */
+

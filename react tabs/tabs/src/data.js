@@ -1,0 +1,5 @@
+export default [
+  {0: "Hac fermentum in consequat duis orci hac et duis. Dignissim sit hymenaeos, lacinia aptent dapibus cubilia cursus volutpat ligula ac Lectus. Ornare. Nonummy nullam ante volutpat lorem blandit curabitur mi nec habitasse sapien pharetra pretium, morbi libero porttitor pharetra felis."},
+  {1: "Orci conubia tincidunt massa vestibulum magnis vestibulum erat. Bibendum aenean aliquet suscipit interdum, litora pharetra mi sodales scelerisque proin vivamus platea lectus. Luctus metus duis leo, curae; justo lacinia magna. Lorem mus mi. Aliquam eget vehicula lobortis amet maecenas class."},
+  {2: "Phasellus augue aenean a aenean vivamus nec amet ultricies massa magna. Rutrum, euismod, dictumst pharetra consequat Sollicitudin. Hendrerit interdum tristique porttitor vehicula duis feugiat montes hymenaeos praesent conubia viverra lacinia libero est, in. Tortor felis luctus. Condimentum ipsum Lacinia magna."},
+]
