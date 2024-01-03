@@ -1,0 +1,22 @@
+.editor-container {
+  background-color: rgb(245, 245, 245);
+}
+
+.editor-inner .ql-container {
+  width: 60%;
+  background: #fff;
+  box-shadow:  0 0 5px 0 #b4b4b4;
+  margin: 10px auto 10px auto !important;
+  /* margin: 50% auto; */
+  height: 100vh;
+}
+
+.editor-inner .ql-toolbar{
+  display: flex;
+  justify-content: center;
+  position: sticky;
+  box-shadow:  0 0 5px 0 #747474;
+  top: 0;
+  z-index: 2;
+  background-color: rgb(245, 245, 245);
+}

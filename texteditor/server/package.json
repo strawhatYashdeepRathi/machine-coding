@@ -1,0 +1,19 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "To save google docs documents",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Yashdeep",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^6.2.0",
+    "mongoose": "^7.6.3",
+    "nodemon": "^3.0.1",
+    "socket.io": "^4.7.2"
+  }
+}
